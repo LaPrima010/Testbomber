@@ -10,9 +10,9 @@
 
         "218": [
             {
-                "name": "tribunalive",
+                "name": "learnmore",
                 "method": "POST",
-                "url": "https://www.tribunalive.ly/sendPin",
+                "url": "https://learnmore.ly/send-pin",
                 "data": {
                     "msisdn": "{target}",
                     "device_type": "web"

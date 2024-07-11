@@ -10,9 +10,9 @@
 
         "218": [
             {
-                "name": "3Via",
+                "name": "tribunalive",
                 "method": "POST",
-                "url": "https://3via.ly/api/client/login",
+                "url": "https://www.tribunalive.ly/sendPin",
                 "data": {
                     "msisdn": "{target}",
                     "device_type": "web"

@@ -10,9 +10,9 @@
 
         "218": [
             {
-                "name": "learnmore",
+                "name": "cheftech",
                 "method": "POST",
-                "url": "https://learnmore.ly/send-pin",
+                "url": "https://cheftech.ly/api/ebtekar/confirm-login",
                 "data": {
                     "msisdn": "{target}",
                     "device_type": "web"

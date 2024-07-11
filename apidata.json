@@ -19,17 +19,14 @@
                 },
                 "identifier": "Otp Sent successfully"
             },
-            {
-                "name": "elforma",
+           {
+                "name": "Learnmore",
                 "method": "POST",
-                "url": "https://www.elforma.ly/api/request-login",
+                "url": "https://learnmore.ly/api/client/login",
                 "data": {
-                    "phone": "{target}",
-                    "countryCode": "ly",
-                    "language": "en",
-                    "utm": {}
+                    "msisdn": "{target}"
                 },
-                "identifier": "SUBSCRIBED"
+                "identifier": "OTP Sended successfully"
             },
             {
                 "name": "Lingo",

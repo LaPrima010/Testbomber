@@ -10,9 +10,9 @@
 
         "218": [
             {
-                "name": "cheftech",
+                "name": "bekam",
                 "method": "POST",
-                "url": "https://cheftech.ly/api/ebtekar/confirm-login",
+                "url": "https://bekam.ly/api/client/login",
                 "data": {
                     "msisdn": "{target}",
                     "device_type": "web"
@@ -20,9 +20,9 @@
                 "identifier": "Otp Sent successfully"
             },
            {
-                "name": "Learnmore",
+                "name": "lingo",
                 "method": "POST",
-                "url": "https://learnmore.ly/api/client/login",
+                "url": "https://lingo.ly/api/client/login ",
                 "data": {
                     "msisdn": "{target}"
                 },
